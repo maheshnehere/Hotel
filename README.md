@@ -1,4 +1,4 @@
-Day 26 - Hotel Reservation System
+Day 26 - Hotel Reservation System 
 
 A hotel chain operating in Miami wishes to offer room reservation services over the internet. They
 have three hotels in Miami: Lakewood, Bridgewood and Ridgewood. Each hotel has separate
@@ -9,4 +9,8 @@ customer. The weekend rates are 90 for regular customer and 80 for a rewards cus
 Bridgewood with a rating of 4 has weekday rates as 160$ for regular customer and 110$ for
 rewards customer. The weekend rates are 60 for regular customer and 50 for a rewards customer.
 Ridgewood with a rating of 5 has weekday rates as 220$ for regular customer and 100$ for rewards
+UC1_AddHotel
+customer. The weekend rates are 150 for regular customer and 40 for a rewards customer.
+
 customer. The weekend rates are 150 for regular customer and 40 for a rewards customer. 
+ master
