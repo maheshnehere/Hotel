@@ -1,4 +1,4 @@
-Day 26 - Hotel Reservation System
+Day 26 - Hotel Reservation System 
 
 A hotel chain operating in Miami wishes to offer room reservation services over the internet. They
 have three hotels in Miami: Lakewood, Bridgewood and Ridgewood. Each hotel has separate
