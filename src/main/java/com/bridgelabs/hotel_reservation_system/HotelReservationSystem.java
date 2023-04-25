@@ -1,7 +1,7 @@
 package com.bridgelabs.hotel_reservation_system;
 
 import java.util.ArrayList;
-import java.util.List;
+import java.util.List; 
 
 public class HotelReservationSystem {
     List<Hotel> hotels = new ArrayList<>();
