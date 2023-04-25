@@ -2,7 +2,7 @@ package com.bridgelabs.hotel_reservation_system;
 
 import org.junit.jupiter.api.Assertions;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.*; 
 class HotelReservationSystemTest {
 
     @org.junit.jupiter.api.Test

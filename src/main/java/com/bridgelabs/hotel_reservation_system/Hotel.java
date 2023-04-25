@@ -2,7 +2,7 @@ package com.bridgelabs.hotel_reservation_system;
 
 public class Hotel {
     private String name;
-    private int rate;
+    private int rate; 
 
     public Hotel(String name, int rate) {
         this.name = name;
